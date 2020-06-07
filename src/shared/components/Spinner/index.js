@@ -11,7 +11,7 @@ const spinner = props => {
         <Spinner animation="border" role="status">
             <span className="sr-only">Loading...</span>
         </Spinner>
-    </div>: <div />;
+    </div> : null;
 };
 
 spinner.prototype = {

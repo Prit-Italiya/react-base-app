@@ -2,6 +2,8 @@
 @import 'base/base';
 @import 'base/typography';
 @import '../../node_modules/bootstrap/scss/bootstrap';
+//Componentes
+@import '../Components/Welcome/style';
 
 //Shared components
 @import '../shared/components/Spinner/style';
