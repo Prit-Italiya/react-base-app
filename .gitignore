@@ -7,6 +7,7 @@
 *.css
 package-lock.json
 *.iml
+.idea
 
 # testing
 /coverage
